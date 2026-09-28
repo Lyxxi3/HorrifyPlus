@@ -1,1 +1,1 @@
-# HorrifyPlusServer
+# HorrifyPlus
